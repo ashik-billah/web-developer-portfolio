@@ -290,7 +290,7 @@ cursor:  pointer;
    margin: 16px 0px;
    color: rgba(13, 19, 33, 0.7);
    font-family: Azeret Mono;
-   font-size: 24px;
+   font-size: 20px;
    font-weight: 700;
    line-height: 36px;
    letter-spacing: 0%;
@@ -436,3 +436,99 @@ cursor:  pointer;
    /* contain-3rd design end */
    
               /*  Why Web Development?? section 2 design  end */
+
+
+               /* My Inspiration section 3 design start */
+.inspire-container{
+
+    width: 1140px;
+  height: 777px;
+  
+  left: 148px;
+  right: 152px;
+  top: 2340px;
+  bottom: 2128px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 80px 97px 80px 97px;
+  border-radius: 16px;
+  
+  
+  }
+  .inspire-container .text-container{
+  
+    width: 852px;
+    height: 115px;
+    
+    display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px;
+  margin: 48px 0px;
+  
+  }
+  
+  .inspire-container .text-container h2{
+    width: 852px;
+    height: 39px;
+    
+  
+    display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 37px;
+  letter-spacing: 0%;
+  text-align: center;
+  }
+  .inspire-container .iframe-container{
+   max-width: 1140px;
+  height:  414px;
+  
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 32px;
+  margin: 48px 0px;
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  border-radius: 16px;
+  position: relative;
+  
+  }
+  .inspire-container .iframe-container iframe{
+    /* position: absolute;
+    width: 90%;
+    height: 90%;
+     border: 2px solid red; 
+    margin: 10px 0px;
+    border-radius: 16px;  */
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      top: 0;
+      left: 0;
+      width: 99%;
+      height: 99%;
+      overflow: hidden;
+      border-radius: 16px;
+  }
+  
+  
+            /* My Inspiration section 3 design end */
