@@ -532,3 +532,365 @@ cursor:  pointer;
   
   
             /* My Inspiration section 3 design end */
+
+
+
+            /* My Current Target section 4 design start */
+
+.target-container{
+
+    width: 1140px;
+    height: 663px;
+   left: 148px;
+   right: 152px;
+   top: 857px;
+   bottom: 2993px;
+   margin: 0 auto;
+  
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: center;
+   padding: 80px 97px 80px 97px;
+  
+   
+   
+  }
+  
+  .target-container .text-target-container{
+  
+    width: 946px;
+    height: 115px;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+    margin: 48px 0px;
+  
+  
+  }
+  
+  .target-container .text-target-container h1{
+  
+    width: 852px;
+    height: 39px;
+    
+    display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px;
+  margin: 24px 0px;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 37px;
+  letter-spacing: 0%;
+  text-align: center;
+  
+  }
+  
+  .target-container .text-target-container p{
+  
+  width: 852px;
+  height: 52px;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px;
+  
+  margin: 24px 0px;
+  opacity: 0.7;
+  
+  color: rgb(13, 19, 33);
+  
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: center;
+  
+  }
+  .target-container .skill-container{
+  
+    width: 1140px;
+    height: 300px;
+    
+    margin: 0 auto;
+    display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px;
+  margin: 48px 0px;
+  gap: 24px;
+  
+  }
+  
+  .target-container .skill-container .html{
+  
+    width: 364px;
+    height: 300px;
+    
+    display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 40px;
+  border-radius: 16px;
+  
+  background: rgba(255, 76, 30, 0.05);
+  
+  }
+  
+  .target-container .skill-container .html img{
+  
+    width: 39.68px;
+    height: 45px;
+    left: 8.16px;
+    top: 11px;
+    
+  
+  }
+  .target-container .skill-container .html h1{
+  
+    width: 284px;
+    height: 36px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+    margin: 8px 0px;
+    color: rgb(13, 19, 33);
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 36px;
+  letter-spacing: 0%;
+  text-align: left;
+  }
+  .target-container .skill-container .html p{
+    width: 284px;
+    height: 52px;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+    margin: 8px 0px;
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+  
+  }
+  .target-container .skill-container .html button{
+    width: 184px;
+    height: 20px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+   border: none;
+    margin: 24px 0px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+    background:none;
+    cursor: pointer;
+  
+  }
+  
+  .target-container .skill-container .css{
+  
+    width: 364px;
+    height: 300px;
+    
+    display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 40px;
+  border-radius: 16px;
+  
+  background: rgba(0, 76, 232, 0.05);
+  
+  }
+  .target-container .skill-container .css img{
+  
+    width: 39.68px;
+    height: 45px;
+    left: 8.16px;
+    top: 11px;
+    
+  
+  }
+  .target-container .skill-container .css h1{
+  
+    width: 284px;
+    height: 36px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+    margin: 8px 0px;
+    color: rgb(13, 19, 33);
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 36px;
+  letter-spacing: 0%;
+  text-align: left;
+  }
+  .target-container .skill-container .css p{
+    width: 284px;
+    height: 52px;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+    margin: 8px 0px;
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+  
+  }
+  .target-container .skill-container .css button{
+    width: 184px;
+    height: 20px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+   border: none;
+    margin: 24px 0px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+    background:none;
+    cursor: pointer;
+  
+  }
+  
+  .target-container .skill-container .javasricpt{
+  
+    width: 364px;
+    height: 300px;
+   
+    display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 40px;
+  border-radius: 16px;
+  
+  background: rgba(255, 223, 0, 0.05);
+  
+  }
+  
+  .target-container .skill-container .javasricpt img{
+  
+    width: 39.68px;
+    height: 45px;
+    left: 8.16px;
+    top: 11px;
+    
+  
+  }
+  .target-container .skill-container .javasricpt h1{
+  
+    width: 284px;
+    height: 36px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+    margin: 8px 0px;
+    color: rgb(13, 19, 33);
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 36px;
+  letter-spacing: 0%;
+  text-align: left;
+  }
+  .target-container .skill-container .javasricpt p{
+    width: 284px;
+    height: 52px;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+    margin: 8px 0px;
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+  
+  }
+  .target-container .skill-container .javasricpt button{
+    width: 184px;
+    height: 20px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+   border: none;
+    margin: 24px 0px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+    background:none;
+    cursor: pointer;
+  
+  }
+  
+  
+            /* My Current Target section 4 design end */
