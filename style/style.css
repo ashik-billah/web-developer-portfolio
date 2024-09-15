@@ -1026,3 +1026,11 @@ cursor: pointer;
 
                  /* footer design end */
 
+                 @media screen and (max-width: 576px) {
+                  .target-container {
+                    background-color: aqua;
+                    display: flex;
+                    flex-direction: column;
+                  }
+                }
+                
